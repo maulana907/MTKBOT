@@ -17,8 +17,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/maulana907/BOT-MTK
-> cd BOT-MTK
+> git clone https://github.com/maulana907/MTKBOT
+> cd MTKBOT
 > npm cache clear
 > bash install.sh
 > npm audit fix
